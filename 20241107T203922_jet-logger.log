@@ -1,0 +1,7 @@
+[2024-11-07T20:39:25.536Z] ERROR: Error: querySrv EREFUSED _mongodb._tcp.cluster0.pk2rp.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17) {
+  errno: undefined,
+  code: 'EREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.pk2rp.mongodb.net'
+}
